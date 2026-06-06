@@ -57,6 +57,7 @@ from .const import (
     HOTWATER_ON,
     LONG_OFF,
     LONG_ON,
+    MACHINE_STATUS,
     NAME_CHARACTERISTIC,
     NOZZLE_STATE,
     START_COFFEE,
